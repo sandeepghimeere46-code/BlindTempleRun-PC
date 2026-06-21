@@ -21,5 +21,11 @@
   ],
   "gift_requests": [],
   "link_button_name": "",
-  "link_url": ""
+  "link_url": "",
+  "leaderboard": [
+    {
+      "name": "sandeep",
+      "score": 391
+    }
+  ]
 }
