@@ -3,5 +3,13 @@
   "message_body": "enjoy with game and autto ubdate functions",
   "gift_id": "",
   "gift_gold": 0,
-  "gift_diamonds": 0
+  "gift_diamonds": 0,
+  "targeted_gifts": [
+    {
+      "user_id": "33759103",
+      "gift_id": "tgift_1782031579",
+      "gold": 555,
+      "diamonds": 32
+    }
+  ]
 }
