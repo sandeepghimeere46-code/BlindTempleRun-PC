@@ -10,16 +10,16 @@
       "gift_id": "tgift_1782031579",
       "gold": 555,
       "diamonds": 32
+    },
+    {
+      "user_id": "33759103",
+      "gift_id": "admin_fulfill_1782035247",
+      "gold": 15,
+      "diamonds": 0,
+      "sender": "Admin"
     }
   ],
   "gift_requests": [
-    {
-      "user_id": "33759103",
-      "player_name": "sandeep",
-      "gold": 15,
-      "message": "hello give me 15 golds",
-      "time": 1782033969
-    },
     {
       "user_id": "33759103",
       "player_name": "sandeep",
