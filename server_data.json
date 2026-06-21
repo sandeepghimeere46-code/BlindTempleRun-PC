@@ -11,5 +11,14 @@
       "gold": 555,
       "diamonds": 32
     }
+  ],
+  "gift_requests": [
+    {
+      "user_id": "33759103",
+      "player_name": "sandeep",
+      "gold": 15,
+      "message": "hello give me 15 golds",
+      "time": 1782033969
+    }
   ]
 }
