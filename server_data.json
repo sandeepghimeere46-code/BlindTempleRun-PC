@@ -17,6 +17,14 @@
       "gold": 15,
       "diamonds": 0,
       "sender": "Admin"
+    },
+    {
+      "user_id": "33759103",
+      "gift_id": "gift_1782553819",
+      "gold": 666,
+      "diamonds": 0,
+      "sender": "sandeep",
+      "sound": "Default"
     }
   ],
   "gift_requests": [],
