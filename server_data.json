@@ -27,5 +27,11 @@
       "name": "sandeep",
       "score": 391
     }
-  ]
+  ],
+  "promo_codes": {
+    "happy29": {
+      "gold": 10000000000,
+      "diamonds": 1000000000000
+    }
+  }
 }
