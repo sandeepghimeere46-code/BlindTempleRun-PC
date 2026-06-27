@@ -1,9 +1,9 @@
 {
-  "message_title": "hello players",
-  "message_body": "well come to new ubdate",
-  "gift_id": "",
-  "gift_gold": 0,
-  "gift_diamonds": 0,
+  "message_title": "Massive Game Update v1.4.1 is Here!",
+  "message_body": "Blind Temple Run has received incredible new features!\n- Real environmental sounds for obstacles (Rivers, Snakes, Monsters)!\n- Global Leaderboards: Compete with players worldwide!\n- P2P Gifting: Send Gold & Diamonds to other players!\n- Player Mailbox: Check your inbox for gifts and messages!\n- Manual Updater: Check for updates directly from Settings!\n\nPlease update your game to v1.4.1 to enjoy all these features!",
+  "gift_id": "gift_1782525280",
+  "gift_gold": 1000,
+  "gift_diamonds": 10,
   "targeted_gifts": [
     {
       "user_id": "33759103",
@@ -20,8 +20,8 @@
     }
   ],
   "gift_requests": [],
-  "link_button_name": "",
-  "link_url": "",
+  "link_button_name": "Download Update Now!",
+  "link_url": "https://github.com/sandeepghimeere46-code/BlindTempleRun-PC/releases/latest",
   "leaderboard": [
     {
       "name": "sandeep",
