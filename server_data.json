@@ -27,7 +27,15 @@
       "sound": "Default"
     }
   ],
-  "gift_requests": [],
+  "gift_requests": [
+    {
+      "user_id": "40EBBCB9",
+      "player_name": "harsh",
+      "gold": 10000,
+      "message": "",
+      "time": 1782557903
+    }
+  ],
   "link_button_name": "",
   "link_url": "",
   "leaderboard": [
