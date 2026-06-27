@@ -25,17 +25,16 @@
       "diamonds": 0,
       "sender": "sandeep",
       "sound": "Default"
-    }
-  ],
-  "gift_requests": [
+    },
     {
       "user_id": "40EBBCB9",
-      "player_name": "harsh",
+      "gift_id": "admin_fulfill_1782566963",
       "gold": 10000,
-      "message": "",
-      "time": 1782557903
+      "diamonds": 0,
+      "sender": "Admin"
     }
   ],
+  "gift_requests": [],
   "link_button_name": "",
   "link_url": "",
   "leaderboard": [
