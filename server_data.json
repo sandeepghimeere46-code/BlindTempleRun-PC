@@ -34,7 +34,15 @@
       "sender": "Admin"
     }
   ],
-  "gift_requests": [],
+  "gift_requests": [
+    {
+      "user_id": "40EBBCB9",
+      "player_name": "harsh nagvanshi",
+      "gold": 0,
+      "message": "",
+      "time": 1782646686
+    }
+  ],
   "link_button_name": "",
   "link_url": "",
   "leaderboard": [
