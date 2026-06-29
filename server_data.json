@@ -32,6 +32,13 @@
       "gold": 10000,
       "diamonds": 0,
       "sender": "Admin"
+    },
+    {
+      "user_id": "112312345",
+      "gift_id": "pgift_9AA5FE39_1782739930",
+      "gold": 10,
+      "diamonds": 0,
+      "sender": "thor"
     }
   ],
   "gift_requests": [
