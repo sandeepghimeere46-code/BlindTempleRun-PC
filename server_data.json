@@ -76,6 +76,13 @@
       "gold": 1000,
       "message": "please give me gold",
       "time": 1782899895
+    },
+    {
+      "user_id": "D3D724E0",
+      "player_name": "artin",
+      "gold": 100,
+      "message": "hello",
+      "time": 1782900411
     }
   ],
   "link_button_name": "",
