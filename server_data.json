@@ -62,6 +62,13 @@
       "gold": 100,
       "message": "hello",
       "time": 1782810380
+    },
+    {
+      "user_id": "602F96EE",
+      "player_name": "tohid",
+      "gold": 100,
+      "message": "",
+      "time": 1782899851
     }
   ],
   "link_button_name": "",
