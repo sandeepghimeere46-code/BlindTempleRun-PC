@@ -39,6 +39,13 @@
       "gold": 10,
       "diamonds": 0,
       "sender": "thor"
+    },
+    {
+      "user_id": "D3D724E0",
+      "gift_id": "pgift_602F96EE_1782901946",
+      "gold": 1,
+      "diamonds": 0,
+      "sender": "tohid"
     }
   ],
   "gift_requests": [
