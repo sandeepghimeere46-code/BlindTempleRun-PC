@@ -46,6 +46,13 @@
       "gold": 1,
       "diamonds": 0,
       "sender": "tohid"
+    },
+    {
+      "user_id": "602F96EE",
+      "gift_id": "pgift_D3D724E0_1782993187",
+      "gold": 400,
+      "diamonds": 100,
+      "sender": "artin"
     }
   ],
   "gift_requests": [
