@@ -117,6 +117,10 @@
   "link_url": "",
   "leaderboard": [
     {
+      "name": "artin",
+      "score": 8089
+    },
+    {
       "name": "tohid",
       "score": 6378
     },
@@ -151,10 +155,6 @@
     {
       "name": "harsh",
       "score": 951
-    },
-    {
-      "name": "harsh",
-      "score": 836
     }
   ],
   "promo_codes": {
