@@ -68,6 +68,14 @@
       "diamonds": 0,
       "redeemed_gift_codes": [],
       "sender": "Admin"
+    },
+    {
+      "user_id": "9AA5FE39",
+      "gift_id": "admin_fulfill_1783659483",
+      "gold": 500,
+      "diamonds": 0,
+      "redeemed_gift_codes": [],
+      "sender": "Admin"
     }
   ],
   "gift_requests": [
@@ -77,13 +85,6 @@
       "gold": 500,
       "message": "i am new player. i want open box",
       "time": 1782738945
-    },
-    {
-      "user_id": "D3D724E0",
-      "player_name": "artin",
-      "gold": 100,
-      "message": "hello",
-      "time": 1782810380
     },
     {
       "user_id": "602F96EE",
