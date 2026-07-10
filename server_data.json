@@ -76,6 +76,14 @@
       "diamonds": 0,
       "redeemed_gift_codes": [],
       "sender": "Admin"
+    },
+    {
+      "user_id": "D3D724E0",
+      "gift_id": "admin_fulfill_1783659498",
+      "gold": 100,
+      "diamonds": 0,
+      "redeemed_gift_codes": [],
+      "sender": "Admin"
     }
   ],
   "gift_requests": [
@@ -92,13 +100,6 @@
       "gold": 100,
       "message": "",
       "time": 1782899851
-    },
-    {
-      "user_id": "602F96EE",
-      "player_name": "tohid",
-      "gold": 1000,
-      "message": "please give me gold",
-      "time": 1782899895
     },
     {
       "user_id": "D3D724E0",
