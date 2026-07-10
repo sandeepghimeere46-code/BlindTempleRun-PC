@@ -94,36 +94,7 @@
       "sender": "Admin"
     }
   ],
-  "gift_requests": [
-    {
-      "user_id": "9AA5FE39",
-      "player_name": "thor",
-      "gold": 500,
-      "message": "i am new player. i want open box",
-      "time": 1782738945
-    },
-    {
-      "user_id": "602F96EE",
-      "player_name": "tohid",
-      "gold": 100,
-      "message": "",
-      "time": 1782899851
-    },
-    {
-      "user_id": "D3D724E0",
-      "player_name": "artin",
-      "gold": 100,
-      "message": "hello",
-      "time": 1782900411
-    },
-    {
-      "user_id": "602F96EE",
-      "player_name": "tohid",
-      "gold": 10000,
-      "message": "please give me som golds",
-      "time": 1782994337
-    }
-  ],
+  "gift_requests": [],
   "link_button_name": "",
   "link_url": "",
   "leaderboard": [
