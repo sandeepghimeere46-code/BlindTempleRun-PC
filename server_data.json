@@ -84,6 +84,14 @@
       "diamonds": 0,
       "redeemed_gift_codes": [],
       "sender": "Admin"
+    },
+    {
+      "user_id": "602F96EE",
+      "gift_id": "admin_fulfill_1783659512",
+      "gold": 10000,
+      "diamonds": 0,
+      "redeemed_gift_codes": [],
+      "sender": "Admin"
     }
   ],
   "gift_requests": [
