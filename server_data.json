@@ -60,16 +60,17 @@
       "gold": 300,
       "diamonds": 0,
       "sender": "tohid"
+    },
+    {
+      "user_id": "40EBBCB9",
+      "gift_id": "admin_fulfill_1783659468",
+      "gold": 0,
+      "diamonds": 0,
+      "redeemed_gift_codes": [],
+      "sender": "Admin"
     }
   ],
   "gift_requests": [
-    {
-      "user_id": "40EBBCB9",
-      "player_name": "harsh nagvanshi",
-      "gold": 0,
-      "message": "",
-      "time": 1782646686
-    },
     {
       "user_id": "9AA5FE39",
       "player_name": "thor",
