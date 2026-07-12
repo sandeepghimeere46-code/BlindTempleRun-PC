@@ -94,7 +94,15 @@
       "sender": "Admin"
     }
   ],
-  "gift_requests": [],
+  "gift_requests": [
+    {
+      "user_id": "52D43611",
+      "player_name": "maani",
+      "gold": 3,
+      "message": "ghn",
+      "time": 1783885818
+    }
+  ],
   "link_button_name": "",
   "link_url": "",
   "leaderboard": [
