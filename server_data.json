@@ -92,17 +92,17 @@
       "diamonds": 0,
       "redeemed_gift_codes": [],
       "sender": "Admin"
-    }
-  ],
-  "gift_requests": [
+    },
     {
       "user_id": "52D43611",
-      "player_name": "maani",
+      "gift_id": "admin_fulfill_1783917989",
       "gold": 3,
-      "message": "ghn",
-      "time": 1783885818
+      "diamonds": 0,
+      "redeemed_gift_codes": [],
+      "sender": "Admin"
     }
   ],
+  "gift_requests": [],
   "link_button_name": "",
   "link_url": "",
   "leaderboard": [
