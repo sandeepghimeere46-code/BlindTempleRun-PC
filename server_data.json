@@ -116,6 +116,13 @@
       "diamonds": 0,
       "redeemed_gift_codes": [],
       "sender": "Admin"
+    },
+    {
+      "user_id": "D3D724E0",
+      "gift_id": "pgift_602F96EE_1784562441",
+      "gold": 10000,
+      "diamonds": 0,
+      "sender": "tohid"
     }
   ],
   "gift_requests": [
