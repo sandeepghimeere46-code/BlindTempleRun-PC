@@ -108,17 +108,17 @@
       "diamonds": 0,
       "redeemed_gift_codes": [],
       "sender": "Admin"
-    }
-  ],
-  "gift_requests": [
+    },
     {
       "user_id": "602F96EE",
-      "player_name": "tohid",
+      "gift_id": "admin_fulfill_1784523609",
       "gold": 0,
-      "message": "",
-      "time": 1784405011
+      "diamonds": 0,
+      "redeemed_gift_codes": [],
+      "sender": "Admin"
     }
   ],
+  "gift_requests": [],
   "link_button_name": "",
   "link_url": "",
   "leaderboard": [
