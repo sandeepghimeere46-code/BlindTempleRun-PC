@@ -118,7 +118,15 @@
       "sender": "Admin"
     }
   ],
-  "gift_requests": [],
+  "gift_requests": [
+    {
+      "user_id": "602F96EE",
+      "player_name": "tohid",
+      "gold": 1000000,
+      "message": "please give me please",
+      "time": 1784562179
+    }
+  ],
   "link_button_name": "",
   "link_url": "",
   "leaderboard": [
